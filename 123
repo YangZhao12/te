@@ -4,3 +4,6 @@
 python -c "import win32api;print('win32api OK')"
 python -c "import win32gui;print('win32gui OK')"
 python -c "import win32ui;print('win32ui OK')"
+Get-ChildItem `
+  C:\Users\yang\miniconda3\envs\ufo\Lib\site-packages\pywin32_system32
+Get-ChildItem C:\Users\yang\miniconda3\envs\ufo\Lib\site-packages\pywin32_system32
