@@ -9,3 +9,4 @@ Get-ChildItem `
 Get-ChildItem C:\Users\yang\miniconda3\envs\ufo\Lib\site-packages\pywin32_system32
 Get-ChildItem C:\Windows\System32\msvcp140*.dll
 Get-ChildItem C:\Windows\System32\vcruntime140*.dll
+Microsoft Visual C++ Redistributable 2015-2022 x64
