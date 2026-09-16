@@ -1,3 +1,6 @@
   python -m galaxy --webui
   DR70nKm3v0ZODebFlMa2had9W6gl2Tdqna4Tu86kd3E
   https://computation-households-singles-remedies.trycloudflare.com   
+python -c "import win32api;print('win32api OK')"
+python -c "import win32gui;print('win32gui OK')"
+python -c "import win32ui;print('win32ui OK')"
