@@ -12,4 +12,4 @@ Get-ChildItem C:\Windows\System32\vcruntime140*.dll
 Microsoft Visual C++ Redistributable 2015-2022 x64
 python -m ufo.client.client --ws --ws-server wss://fully-bernard-annually-what.trycloudflare.com/ws --api-key "eZFulqgfBFPRLC9ecJE8owluNHUz-qvv0EU5YaNIeng" --client-id windows_device_2 --platform windows
 
- python -m ufo.client.client --ws --ws-server wss://fully-bernard-annually-what.trycloudflare.com/ws --api-key "eZFulqgfBFPRLC9ecJE8owluNHUz-qvv0EU5YaNIeng" --client-id VM1 --platform windows
+ python -m ufo.client.client --ws --ws-server wss://fully-bernard-annually-what.trycloudflare.com/ws --api-key "egtJeDHxvvTv3mxUnwTyfxGD2Nb5CVbzb0L5ihwRXq4" --client-id VM1 --platform windows
