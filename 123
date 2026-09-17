@@ -10,9 +10,6 @@ Get-ChildItem C:\Users\yang\miniconda3\envs\ufo\Lib\site-packages\pywin32_system
 Get-ChildItem C:\Windows\System32\msvcp140*.dll
 Get-ChildItem C:\Windows\System32\vcruntime140*.dll
 Microsoft Visual C++ Redistributable 2015-2022 x64
-python -m ufo.client.client 
-  --ws 
-  --ws-server wss://computation-households-singles-remedies.trycloudflare.com/ws 
-  --api-key "DR70nKm3v0ZODebFlMa2had9W6gl2Tdqna4Tu86kd3E" 
-  --client-id windows_device_1 
-  --platform windows
+python -m ufo.client.client --ws --ws-server wss://fully-bernard-annually-what.trycloudflare.com/ws --api-key "eZFulqgfBFPRLC9ecJE8owluNHUz-qvv0EU5YaNIeng" --client-id windows_device_2 --platform windows
+
+ python -m ufo.client.client --ws --ws-server wss://fully-bernard-annually-what.trycloudflare.com/ws --api-key "eZFulqgfBFPRLC9ecJE8owluNHUz-qvv0EU5YaNIeng" --client-id VM1 --platform windows
